@@ -1,4 +1,3 @@
-# anemia-prediction-using-hematological-data
 # CENG313 Data Science Project
 
 ### Repository Contents
